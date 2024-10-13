@@ -1,65 +1,65 @@
-Aether AGI
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Aether AGI</title>
-  <link rel="stylesheet" href="styles.css">
-</head> 
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f4f4f4;
-  color: #333;
-}
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
 
-header {
-  background-color: #3a3a3a;
-  color: #fff;
-  padding: 50px;
-  text-align: center;
-}
+    header {
+      background-color: #3a3a3a;
+      color: #fff;
+      padding: 50px;
+      text-align: center;
+    }
 
-header h1 {
-  font-size: 3rem;
-}
+    header h1 {
+      font-size: 3rem;
+    }
 
-header p {
-  font-size: 1.2rem;
-}
+    header p {
+      font-size: 1.2rem;
+    }
 
-section {
-  padding: 20px;
-  margin: 20px;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+    section {
+      padding: 20px;
+      margin: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-h2 {
-  color: #3a3a3a;
-}
+    h2 {
+      color: #3a3a3a;
+    }
 
-a {
-  color: #0073b1;
-  text-decoration: none;
-}
+    a {
+      color: #0073b1;
+      text-decoration: none;
+    }
 
-a:hover {
-  text-decoration: underline;
-}
+    a:hover {
+      text-decoration: underline;
+    }
 
-footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #3a3a3a;
-  color: #fff;
-  position: absolute;
-  width: 100%;
-  bottom: 0;
-}
-
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #3a3a3a;
+      color: #fff;
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
 <body>
   <header>
     <h1>Welcome to Aether AGI</h1>
